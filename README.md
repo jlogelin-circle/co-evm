@@ -71,6 +71,15 @@ cargo run --bin ping_pong
 
 # Atomic operations demo
 cargo run --bin atomic_demo
+
+# Ping pong demo
+cargo run --bin ping_pong
+
+# Ping pong with revert demo
+cargo run --bin ping_pong_revert
+
+# Public/Private ERC20 bridged
+cargo run --bin private_erc20_crossevm
 ```
 
 ### Run Tests
