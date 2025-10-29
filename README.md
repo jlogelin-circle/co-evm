@@ -8,7 +8,7 @@ Co-EVM (Cooperative EVM) is a proof-of-concept implementation that enables:
 
 - **Dual EVM Architecture**: Seamless communication between parent (L1) and child (enclave) EVM instances
 - **Cross-EVM Calls**: Type-safe message passing between EVMs using custom router precompiles
-- **Encrypted Smart Contracts**: End-to-end encryption for private contract execution using ChaCha20-Poly1305 and X25519
+- **Encrypted Smart Contracts**: End-to-end encryption for private contract execution
 - **Transaction Coordination**: Atomic operations across both EVM instances with two-phase commit support
 
 ## Key Features
